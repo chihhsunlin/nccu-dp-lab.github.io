@@ -13,8 +13,15 @@ sidebar: false
 
 <div>
 <img src="profile.png" style="width:100%; border-radius: 12px;">
-<strong>Member Name</strong>
+Member Name
 </div>
 
 </div>
+## Undergraduate Student
 
+<div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); gap: 1.5em;">
+
+<div>
+<img src="profile.png" style="width:100%; border-radius: 12px;">
+Member Name
+</div>
