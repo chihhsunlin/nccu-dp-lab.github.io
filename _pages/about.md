@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Differential Privacy & Data Security Lab"
+title: "Privacy & Data Security Lab"
 author: chihhsunlin
 author_profile: false
 redirect_from: 
