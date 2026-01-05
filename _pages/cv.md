@@ -103,17 +103,18 @@ His research interests lie at the intersection of **differential privacy**, **ne
 
 ## Professional Experience
 
-- **Graduate Researcher**, National Yang Ming Chiao Tung University (2020–2025)  
-- **Visiting Researcher**, Tokyo Institute of Technology  
-- **Visiting Researcher**, Hokkaido University  
+**Postdoctoral Researcher**, Meiji University, Japan  
+*Nov 2025 – Jan 2026*  
+- Research topic: *An End-to-End Differential Privacy Protocol for Polypharmacy Risk Analysis*
 
----
+**Graduate Researcher (Ph.D.)**, National Yang Ming Chiao Tung University, Taiwan  
+*2020 – 2025*
 
-## Technical Skills
+**Visiting Researcher**, Meiji University, Japan  
+**Visiting Researcher**, Hokkaido University, Japan  
+**Visiting Researcher**, Tokyo Institute of Technology, Japan  
 
-- Programming: Python, MATLAB, JavaScript  
-- Frameworks: PyTorch, TensorFlow  
-- Privacy Technologies: LDP mechanisms, DP-SGD, DP-GAN, DP-VAE  
+
 
 ---
 
@@ -125,4 +126,5 @@ His research interests lie at the intersection of **differential privacy**, **ne
 
 ## Teaching (Upcoming)
 
-- Courses in data privacy, secure machine learning, and computer science fundamentals at NCCU
+-  Privacy-Preserving Computing (graduate, 2026 spring)
+-  Ethics and Security in Artificial Intelligence (undergraduate, 2026 spring)
