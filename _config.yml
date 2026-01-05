@@ -28,7 +28,7 @@ repository: "chihhsunlin/nccu-dp-lab.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/profile.png"
+  avatar           : "/images/profile.jpg"
   name             : "Chih-Hsun Lin"
   location         : "Taipei"
   employer         : "National Chengchi University (NCCU)"
