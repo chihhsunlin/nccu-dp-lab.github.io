@@ -41,53 +41,53 @@ His research interests lie at the intersection of **differential privacy**, **ne
 
 ### Journal Articles
 
-1. **DPAF: Image Synthesis via Differentially Private Aggregation in the Forward Phase**  
-   *Chih-Hsun Lin, Chia-Yi Hsu, Chia-Mu Yu, Cao Yang, Chun-Ying Huang*  
-   **IEEE Internet of Things Journal**, 2024.
+1. DPAF: Image Synthesis via Differentially Private Aggregation in the Forward Phase  
+   **Chih-Hsun Lin**, Chia-Yi Hsu, Chia-Mu Yu, Cao Yang, Chun-Ying Huang  
+   *IEEE Internet of Things Journal (IEEE IoT-J)*, 2024.
 
-2. **DPView: Differentially Private Data Synthesis through Domain Size Information**  
-   *Chih-Hsun Lin, Chia-Mu Yu, Chun-Ying Huang*  
-   **IEEE Internet of Things Journal**, 2022.
+2. DPView: Differentially Private Data Synthesis through Domain Size Information  
+   **Chih-Hsun Lin**, Chia-Mu Yu, Chun-Ying Huang  
+   *IEEE Internet of Things Journal (IEEE IoT-J)*, 2022.
 
 ---
 
 ### Refereed Conference Papers
 
-1. **VP-NTK: Exploring Visual Prompting in Differentially Private Data Synthesis**  
-   Chia-Yi Hsu, *Chih-Hsun Lin*, et al.  
-   **IEEE ICASSP**, 2025.
+1. VP-NTK: Exploring Visual Prompting in Differentially Private Data Synthesis  
+   3.	Chia-Yi Hsu, Jia-You Chen, Yu-Lin Tsai, **Chih-Hsun Lin**, Pin-Yu Chen, Chia-Mu Yu, Chun-Ying Huang  
+   *IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)*, 2025.
 
-2. **Safe LoRA: Reducing Safety Risks When Fine-Tuning Large Language Models**  
-   Chia-Yi Hsu, Yu-Lin Tsai, *Chih-Hsun Lin*, et al.  
-   **NeurIPS**, 2024.
+2. Safe LoRA: Reducing Safety Risks When Fine-Tuning Large Language Models  
+   Chia-Yi Hsu, Yu-Lin Tsai, **Chih-Hsun Lin**, Pin-Yu Chen, Chia-Mu Yu, Chun-Ying Huang  
+   *Neural Information Processing Systems (NeurIPS)*, 2024.
 
-3. **Ring-A-Bell! How Reliable Are Concept Removal Methods?**  
-   Yu-Lin Tsai, Chia-Yi Hsu, *Chih-Hsun Lin*, et al.  
-   **ICLR**, 2024.
+3. Ring-A-Bell! How Reliable Are Concept Removal Methods?  
+   Yu-Lin Tsai, Chia-Yi Hsu, Chulin Xie, **Chih-Hsun Lin**, Jia-You Chen, Bo Li, Pin-Yu Chen, Chia-Mu Yu, Chun-Ying Huang  
+   *International Conference on Learning Representations (ICLR)*, 2024.
 
-4. **Deepfake Detection through Temporal Attention Mechanisms**  
-   Hsiu-Fu Wu, Chia-Yi Hsu, *Chih-Hsun Lin*, et al.  
-   **IEEE WOCC**, 2024.
+4. Deepfake Detection through Temporal Attention Mechanisms  
+   Hsiu-Fu Wu, Chia-Yi Hsu, **Chih-Hsun Lin**, Chia-Mu Yu, Chun-Ying Huang  
+   *IEEE Wireless and Optical Communications Conference (IEEE WOCC)*, 2024.
 
-5. **Privacy-Preserving Record Linkage via Bilinear Pairing**  
-   *Chih-Hsun Lin*, Chia-Mu Yu  
-   **IEEE ICCE-Taiwan**, 2018.
+5. Privacy-Preserving Record Linkage via Bilinear Pairing  
+   **Chih-Hsun Lin**, Chia-Mu Yu  
+   *IEEE International Conference on Consumer Electronics-Taiwan (ICCE-TW)*, 2018.
 
 ---
 
 ### Manuscripts Under Review
 
-- **Data Poisoning Attacks to Locally Differentially Private Range Query Protocols**  
-  Ting-Wei Liao, *Chih-Hsun Lin*, et al.  
-  Submitted to **NDSS**, 2026.
+- Data Poisoning Attacks to Locally Differentially Private Range Query Protocols  
+  Ting-Wei Liao, **Chih-Hsun Lin**, Yu-Lin Tsai, Takao Murakami, Chia-Mu Yu, Jun Sakuma, Chun-Ying Huang, Hiroaki Kikuchi  
+  Submitted to *IEEE Symposium on Security and Privacy (IEEE S&P)*, 2026.
 
-- **Poisoning Attacks to Local Differential Privacy Protocols for Trajectory Data**  
-  I-Jung Hsu, *Chih-Hsun Lin*, et al.  
-  Submitted to **IEEE Transactions on Information Forensics and Security**, 2026.
+- Poisoning Attacks to Local Differential Privacy Protocols for Trajectory Data  
+  I-Jung Hsu, **Chih-Hsun Lin**, Chia-Mu Yu, Sy-Yen Kuo, and Chun-Ying Huang  
+  Submitted to *IEEE Transactions on Information Forensics and Security (IEEE TIFS)*, 2026.
 
-- **BadTV: Unveiling Backdoor Threats in Third-Party Task Vectors**  
-  Chia-Yi Hsu, Yu-Lin Tsai, *Chih-Hsun Lin*, et al.  
-  Submitted to **ACM CCS**, 2026.
+- BadTV: Unveiling Backdoor Threats in Third-Party Task Vectors  
+  2.	Chia-Yi Hsu, Yu-Lin Tsai, Yu Zhe, Yan-Lun Chen, **Chih-Hsun Lin**, Chia-Mu Yu, Yang Zhang, Chun-Ying Huang, Jun Sakuma  
+  Submitted to *ACM Conference on Computer and Communications Security (ACM CCS)*, 2026.
 
 ---
 
