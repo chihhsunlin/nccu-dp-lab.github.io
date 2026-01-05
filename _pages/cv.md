@@ -2,7 +2,7 @@
 title: "CV"
 permalink: /cv/
 layout: single
-author_profile: false
+author_profile: true
 ---
 
 ## Chih-Hsun Lin
