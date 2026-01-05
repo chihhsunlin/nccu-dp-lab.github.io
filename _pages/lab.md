@@ -5,9 +5,9 @@ permalink: /lab/
 author_profile: false
 ---
 
-### NCCU Differential Privacy Lab
+### NCCU Privacy & Security Lab
 
-The Differential Privacy Lab conducts research on privacy-preserving data analysis
+The Privacy & Security Lab conducts research on privacy-preserving data analysis
 and secure machine learning, with a particular emphasis on differential privacy.
 Our goal is to develop practical and theoretically sound methods that enable
 data sharing and analysis while protecting sensitive information.
