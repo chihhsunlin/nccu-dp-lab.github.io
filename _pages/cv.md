@@ -17,8 +17,7 @@ National Chengchi University (NCCU), Taipei, Taiwan
 
 ## Academic Biography
 
-Chih-Hsun Lin is an incoming Assistant Professor in the Department of Computer Science at National Chengchi University, Taiwan.  
-He received his Ph.D. in Computer Science and Engineering from National Yang Ming Chiao Tung University in 2025.
+Chih-Hsun Lin is an incoming Assistant Professor in the Department of Computer Science at National Chengchi University, Taiwan. He received his Ph.D. in Computer Science and Engineering from National Yang Ming Chiao Tung University in 2025.
 
 His research interests lie at the intersection of **differential privacy**, **neural network security**, and **privacy-preserving data analysis**, with a particular focus on local differential privacy, privacy amplification via shuffling, and differentially private data synthesis for tabular, image, and time-series data.
 
