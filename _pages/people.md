@@ -7,7 +7,7 @@ sidebar: false
 ---
 
 
-## Master Student
+## Graduate Student
 
 <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); gap: 1.5em;">
 
