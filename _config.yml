@@ -29,12 +29,9 @@ repository: "chihhsunlin/nccu-dp-lab.github.io"
 author:
   # Biographic information
   avatar           : "/images/profile.jpg"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
+  name             : "Chih-Hsun Lin"
+  location         : "Taipei"
+  employer         : "National Chengchi University"
   email            : "pkevawin334@gmail.com" 
 
   # Academic websites
