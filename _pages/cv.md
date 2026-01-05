@@ -5,15 +5,6 @@ layout: single
 author_profile: true
 ---
 
-## Chih-Hsun Lin
-
-Assistant Professor (Incoming)  
-Department of Computer Science  
-National Chengchi University (NCCU), Taipei, Taiwan  
-
-📧 Email: pkevawin334@gmail.com  
-
----
 
 ## Academic Biography
 
