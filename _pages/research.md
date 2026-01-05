@@ -2,6 +2,7 @@
 layout: single
 title: Research
 permalink: /research/
+author_profile: false
 ---
 
 Our research focuses on privacy-preserving data analysis and secure machine learning.
