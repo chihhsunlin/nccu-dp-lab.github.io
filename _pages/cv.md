@@ -96,6 +96,7 @@ His research interests lie at the intersection of **differential privacy**, **ne
 **Postdoctoral Researcher**, Meiji University, Japan  
 *Nov 2025 – Jan 2026*  
 - Research topic: *An End-to-End Differential Privacy Protocol for Polypharmacy Risk Analysis*
+
 **Visiting Researcher**, Meiji University, Japan  
 **Visiting Researcher**, Hokkaido University, Japan  
 **Visiting Researcher**, Tokyo Institute of Technology, Japan  
