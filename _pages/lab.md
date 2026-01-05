@@ -2,6 +2,7 @@
 layout: single
 title: Lab
 permalink: /lab/
+author_profile: false
 ---
 
 ### NCCU Differential Privacy Lab
