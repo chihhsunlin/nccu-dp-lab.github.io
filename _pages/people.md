@@ -12,7 +12,7 @@ sidebar: false
 <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); gap: 1.5em;">
 
 <div>
-<img src="{{ site.baseurl }}/images/profile.png" style="width:100%; border-radius: 12px;">
+<img src="{{ site.baseurl }}/images/profile.png" style="width:60%; border-radius: 12px;">
 Member Name
 </div>
 
@@ -22,6 +22,6 @@ Member Name
 <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); gap: 1.5em;">
 
 <div>
-<img src="{{ site.baseurl }}/images/profile.png" style="width:100%; border-radius: 12px;">
+<img src="{{ site.baseurl }}/images/profile.png" style="width:60ˊ; border-radius: 12px;">
 Member Name
 </div>
