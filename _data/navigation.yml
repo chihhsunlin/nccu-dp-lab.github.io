@@ -9,11 +9,12 @@
 
 main:
   - title: "Lab"
-    url: /lab/
+    url: "{{ site.baseurl }}/lab/"
   - title: "People"
-    url: /people/
+    url: "{{ site.baseurl }}/people/"
   - title: "Research"
-    url: /research/
+    url: "{{ site.baseurl }}/research/"
   - title: "CV"
-    url: /cv/
+    url: "{{ site.baseurl }}/cv/"
+
 
