@@ -8,18 +8,57 @@ redirect_from:
   - /about.html
 ---
 
-The Privacy & Security Lab focuses on the study of privacy-preserving and secure data analysis for modern artificial intelligence and machine learning systems. Our research aims to develop methods that achieve strong, formal privacy and security guarantees while maintaining high data utility.
+<div class="section">
+  <p>
+    The <strong>Privacy &amp; Security Lab</strong> focuses on privacy-preserving
+    and secure data analysis for modern artificial intelligence and machine
+    learning systems. Our goal is to develop practical methods with
+    <strong>formal privacy and security guarantees</strong> while maintaining
+    high data utility.
+  </p>
+</div>
 
-Our core research areas include, but are not limited to:
+<div class="section">
+  <h2>Research Areas</h2>
 
-Differential Privacy
-We design and analyze privacy-preserving mechanisms with rigorous theoretical guarantees, covering centralized, local (LDP), and shuffle models of differential privacy.
+  <div class="row">
 
-Privacy-Preserving Data Synthesis
-We study differentially private data generation techniques for tabular, image, and time-series data, leveraging methods such as DP-GAN, DP-VAE, and DP-SGD to enable safe data sharing and reuse.
+    <div class="col-md-6">
+      <h3>Differential Privacy</h3>
+      <p>
+        We design and analyze privacy-preserving mechanisms with rigorous
+        theoretical guarantees, covering centralized, local (LDP), and shuffle
+        models of differential privacy.
+      </p>
+    </div>
 
-Privacy Risk and Security Analysis
-We investigate privacy and security threats including membership inference attacks, re-identification risks, and data poisoning attacks, and develop corresponding defense mechanisms.
+    <div class="col-md-6">
+      <h3>Privacy-Preserving Data Synthesis</h3>
+      <p>
+        We study differentially private data generation techniques for tabular,
+        image, and time-series data using DP-GAN, DP-VAE, and DP-SGD to enable
+        safe data sharing and reuse.
+      </p>
+    </div>
 
-Trustworthy and Secure AI Systems
-We explore the deployment of privacy-enhancing technologies in real-world applications such as healthcare, smart cities, and data-sharing platforms, aiming to build trustworthy and compliant AI systems.
+    <div class="col-md-6">
+      <h3>Privacy Risk and Security Analysis</h3>
+      <p>
+        We investigate privacy and security threats such as membership inference
+        attacks, re-identification risks, and data poisoning attacks, and develop
+        corresponding defense mechanisms.
+      </p>
+    </div>
+
+    <div class="col-md-6">
+      <h3>Trustworthy and Secure AI Systems</h3>
+      <p>
+        We explore privacy-enhancing technologies in real-world applications
+        including healthcare, smart cities, and data-sharing platforms to build
+        trustworthy and compliant AI systems.
+      </p>
+    </div>
+
+  </div>
+</div>
+
