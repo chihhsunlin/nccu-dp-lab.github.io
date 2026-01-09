@@ -108,7 +108,7 @@ Visiting Researcher, Tokyo Institute of Technology, Japan (Jul 2017 – Sep 2017
 
 ---
 
-## Teaching (Upcoming)
+## Teaching
 
 -  Privacy-Preserving Computing (graduate, 2026 spring)
 -  Ethics and Security in Artificial Intelligence (undergraduate, 2026 spring)
