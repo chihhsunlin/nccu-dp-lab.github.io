@@ -54,7 +54,7 @@ His research interests lie at the intersection of **differential privacy**, **ne
 ### Refereed Conference Papers
 
 1. VP-NTK: Exploring Visual Prompting in Differentially Private Data Synthesis  
-   3.	Chia-Yi Hsu, Jia-You Chen, Yu-Lin Tsai, **Chih-Hsun Lin**, Pin-Yu Chen, Chia-Mu Yu, Chun-Ying Huang  
+   Chia-Yi Hsu, Jia-You Chen, Yu-Lin Tsai, **Chih-Hsun Lin**, Pin-Yu Chen, Chia-Mu Yu, Chun-Ying Huang  
    *IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)*, 2025.
 
 2. Safe LoRA: Reducing Safety Risks When Fine-Tuning Large Language Models  
