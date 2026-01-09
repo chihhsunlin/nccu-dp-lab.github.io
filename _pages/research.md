@@ -6,18 +6,12 @@ author_profile: false
 ---
 
 <section class="section">
-  <p style="color:#555;">
-    Research at the <strong style="color:#1a73e8;">Privacy &amp; Security Lab</strong>
-    focuses on the design and analysis of
-    <span style="color:#1a73e8; font-weight:500;">
-      privacy-preserving and secure machine learning systems
-    </span>.
-    Our work integrates
-    <span style="font-weight:500;">differential privacy</span>,
-    <span style="font-weight:500;">neural network security</span>,
-    and data analysis to enable
-    <span style="color:#1a73e8;">trustworthy AI</span>
-    under rigorous privacy and security guarantees.
+  <p>
+    Research at the <strong>Privacy &amp; Security Lab</strong> focuses on the
+    design and analysis of privacy-preserving and secure machine learning
+    systems. Our work integrates <strong>differential privacy, neural network
+    security, and data analysis</strong> to enable trustworthy AI under
+    rigorous privacy and security guarantees.
   </p>
 </section>
 
@@ -27,58 +21,49 @@ author_profile: false
   <div class="row">
 
     <div class="col-md-6">
-      <h3 style="color:#1a73e8;">Differential Privacy Models</h3>
-      <p style="color:#555;">
-        We study differential privacy across
-        <strong>centralized</strong>, <strong>local (LDP)</strong>, and
-        <strong>shuffle models</strong>, with an emphasis on understanding
-        privacy–utility trade-offs and system-level implications.
+      <h3>Differential Privacy Models</h3>
+      <p>
+        We study differential privacy across centralized, local (LDP), and
+        shuffle models, with an emphasis on understanding their privacy–utility
+        trade-offs and system-level implications in real-world deployments.
       </p>
     </div>
 
     <div class="col-md-6">
-      <h3 style="color:#1a73e8;">Privacy Amplification &amp; Accounting</h3>
-      <p style="color:#555;">
-        Our research investigates
-        <span style="font-weight:500;">privacy amplification</span>,
-        particularly amplification via
-        <span style="font-weight:500;">shuffling</span>,
-        and develops accurate privacy accounting based on
-        <strong>advanced composition</strong> and
-        <strong>Rényi Differential Privacy (RDP)</strong>.
+      <h3>Privacy Amplification &amp; Accounting</h3>
+      <p>
+        Our research investigates privacy amplification mechanisms, particularly
+        amplification via shuffling, and develops accurate privacy accounting
+        techniques based on advanced composition and Rényi Differential Privacy (RDP).
       </p>
     </div>
 
     <div class="col-md-6">
-      <h3 style="color:#1a73e8;">Privacy-Preserving Data Synthesis</h3>
-      <p style="color:#555;">
-        We develop differentially private data synthesis techniques for
-        <strong>tabular</strong>, <strong>image</strong>, and
-        <strong>time-series</strong> data, enabling safe data sharing while
-        preserving essential statistical properties.
+      <h3>Privacy-Preserving Data Synthesis</h3>
+      <p>
+        We develop differentially private data synthesis techniques for tabular,
+        image, and time-series data, enabling safe data sharing while preserving
+        essential statistical properties and downstream task utility.
       </p>
     </div>
 
     <div class="col-md-6">
-      <h3 style="color:#1a73e8;">Neural Network Security</h3>
-      <p style="color:#555;">
-        We analyze security threats in learning systems, including
-        <span style="font-weight:500;">data poisoning</span> and
-        <span style="font-weight:500;">backdoor attacks</span>,
-        and design defenses to improve model robustness.
+      <h3>Neural Network Security</h3>
+      <p>
+        We analyze security threats in learning systems, including data
+        poisoning and backdoor attacks, and design defenses to improve model
+        robustness and reliability.
       </p>
     </div>
 
     <div class="col-md-6">
-      <h3 style="color:#1a73e8;">Secure &amp; Trustworthy AI Applications</h3>
-      <p style="color:#555;">
-        We apply privacy-preserving and secure learning techniques to
-        <strong>healthcare</strong> and
-        <strong>behavioral data analysis</strong>,
+      <h3>Secure &amp; Trustworthy AI Applications</h3>
+      <p>
+        We apply privacy-preserving and secure machine learning techniques to
+        sensitive domains such as healthcare and behavioral data analysis,
         aiming to build compliant and trustworthy AI systems.
       </p>
     </div>
 
   </div>
 </section>
-
