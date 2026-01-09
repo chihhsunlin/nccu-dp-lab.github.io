@@ -93,10 +93,10 @@ His research interests lie at the intersection of **differential privacy**, **ne
 
 ## Professional Experience
 
-**Postdoctoral Researcher**, Meiji University, Japan (Nov 2025 – Feb 2026)<\br>
-**Visiting Researcher**, Meiji University, Japan (Sep 2024 – Sep 2025)<\br>
-**Visiting Researcher**, Hokkaido University, Japan (Jan 2023 – Mar 2023)<\br>
-**Visiting Researcher**, Tokyo Institute of Technology, Japan (Jul 2017 – Sep 2017)
+Postdoctoral Researcher, Meiji University, Japan (Nov 2025 – Feb 2026)<\br>
+Visiting Researcher, Meiji University, Japan (Sep 2024 – Sep 2025)<\br>
+Visiting Researcher, Hokkaido University, Japan (Jan 2023 – Mar 2023)<\br>
+Visiting Researcher, Tokyo Institute of Technology, Japan (Jul 2017 – Sep 2017)
 
 
 
