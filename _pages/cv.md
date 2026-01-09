@@ -86,7 +86,7 @@ His research interests lie at the intersection of **differential privacy**, **ne
   Submitted to *IEEE Transactions on Information Forensics and Security (IEEE TIFS)*, 2026.
 
 - BadTV: Unveiling Backdoor Threats in Third-Party Task Vectors  
-  2.	Chia-Yi Hsu, Yu-Lin Tsai, Yu Zhe, Yan-Lun Chen, **Chih-Hsun Lin**, Chia-Mu Yu, Yang Zhang, Chun-Ying Huang, Jun Sakuma  
+  Chia-Yi Hsu, Yu-Lin Tsai, Yu Zhe, Yan-Lun Chen, **Chih-Hsun Lin**, Chia-Mu Yu, Yang Zhang, Chun-Ying Huang, Jun Sakuma  
   Submitted to *ACM Conference on Computer and Communications Security (ACM CCS)*, 2026.
 
 ---
