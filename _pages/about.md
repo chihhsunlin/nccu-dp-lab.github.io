@@ -24,7 +24,7 @@ redirect_from:
   <div class="row">
 
     <div class="col-md-6">
-      <h3>Differential Privacy</h3>
+      <h3>Differential Privacy (DP)</h3>
       <p>
         We design and analyze privacy-preserving mechanisms with rigorous
         theoretical guarantees, covering centralized, local (LDP), and shuffle
