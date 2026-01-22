@@ -50,7 +50,7 @@ His research interests lie at the intersection of **differential privacy**, **ne
 
 ---
 
-### Refereed Conference Papers
+### Conference Papers
 
 1. 顔ランドマーク抽出妨害する敵対的攻撃によるディープフ ェイク生成防御<br>
    楊力懿, **林志訓**, 菊池浩明<br>
