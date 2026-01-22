@@ -30,7 +30,6 @@ His research interests lie at the intersection of **differential privacy**, **ne
 ## Research Interests
 
 - Differential Privacy (Central, Local, and Shuffle Models)  
-- Privacy Amplification and Privacy Accounting (RDP, Advanced Composition)  
 - Privacy-Preserving Data Synthesis  
 - Neural Network Security and Robustness  
 - Secure Machine Learning Applications in Healthcare and Behavioral Data  
