@@ -84,8 +84,8 @@ His research interests lie at the intersection of **differential privacy**, **ne
 
 ### Manuscripts Under Review
 
-- An End-to-End Differential Privacy Protocol for Polypharmacy Risk Analysis
-  Hiroaki Kikuchi, **Chih-Hsun Lin**
+- An End-to-End Differential Privacy Protocol for Polypharmacy Risk Analysis<br>
+  Hiroaki Kikuchi, **Chih-Hsun Lin**<br>
   Submitted to *IEEE Access*.
 
 - Data Poisoning Attacks to Locally Differentially Private Range Query Protocols  
