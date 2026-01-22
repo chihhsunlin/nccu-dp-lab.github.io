@@ -42,7 +42,7 @@ His research interests lie at the intersection of **differential privacy**, **ne
 
 1. DPAF: Image Synthesis via Differentially Private Aggregation in the Forward Phase  
    **Chih-Hsun Lin**, Chia-Yi Hsu, Chia-Mu Yu, Cao Yang, Chun-Ying Huang  
-   *IEEE Internet of Things Journal (IEEE IoT-J)*, 2024.
+   *IEEE Internet of Things Journal (IEEE IoT-J)*, 2025.
 
 2. DPView: Differentially Private Data Synthesis through Domain Size Information  
    **Chih-Hsun Lin**, Chia-Mu Yu, Chun-Ying Huang  
@@ -52,25 +52,33 @@ His research interests lie at the intersection of **differential privacy**, **ne
 
 ### Refereed Conference Papers
 
-1. VP-NTK: Exploring Visual Prompting in Differentially Private Data Synthesis  
+1. 顔ランドマーク抽出妨害する敵対的攻撃によるディープフ ェイク生成防御
+   楊力懿, **林志訓**, 菊池浩明
+   第110回CSEC研究発表会, 2025.
+
+3. VP-NTK: Exploring Visual Prompting in Differentially Private Data Synthesis  
    Chia-Yi Hsu, Jia-You Chen, Yu-Lin Tsai, **Chih-Hsun Lin**, Pin-Yu Chen, Chia-Mu Yu, Chun-Ying Huang  
    *IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)*, 2025.
 
-2. Safe LoRA: Reducing Safety Risks When Fine-Tuning Large Language Models  
+4. Safe LoRA: Reducing Safety Risks When Fine-Tuning Large Language Models  
    Chia-Yi Hsu, Yu-Lin Tsai, **Chih-Hsun Lin**, Pin-Yu Chen, Chia-Mu Yu, Chun-Ying Huang  
    *Neural Information Processing Systems (NeurIPS)*, 2024.
 
-3. Ring-A-Bell! How Reliable Are Concept Removal Methods?  
+5. Ring-A-Bell! How Reliable Are Concept Removal Methods?  
    Yu-Lin Tsai, Chia-Yi Hsu, Chulin Xie, **Chih-Hsun Lin**, Jia-You Chen, Bo Li, Pin-Yu Chen, Chia-Mu Yu, Chun-Ying Huang  
    *International Conference on Learning Representations (ICLR)*, 2024.
 
-4. Deepfake Detection through Temporal Attention Mechanisms  
+6. Deepfake Detection through Temporal Attention Mechanisms  
    Hsiu-Fu Wu, Chia-Yi Hsu, **Chih-Hsun Lin**, Chia-Mu Yu, Chun-Ying Huang  
    *IEEE Wireless and Optical Communications Conference (IEEE WOCC)*, 2024.
 
-5. Privacy-Preserving Record Linkage via Bilinear Pairing  
+7. Privacy-Preserving Record Linkage via Bilinear Pairing  
    **Chih-Hsun Lin**, Chia-Mu Yu  
    *IEEE International Conference on Consumer Electronics-Taiwan (ICCE-TW)*, 2018.
+
+8. 加密雲端數據上模糊化多關鍵字搜尋的隱私保護
+   **林志訓**, 魏瑋良, 游家牧
+   全國資訊安全會議, 2017. 
 
 ---
 
