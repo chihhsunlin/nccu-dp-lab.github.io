@@ -52,8 +52,8 @@ His research interests lie at the intersection of **differential privacy**, **ne
 
 ### Refereed Conference Papers
 
-1. 顔ランドマーク抽出妨害する敵対的攻撃によるディープフ ェイク生成防御
-   楊力懿, **林志訓**, 菊池浩明
+1. 顔ランドマーク抽出妨害する敵対的攻撃によるディープフ ェイク生成防御<br>
+   楊力懿, **林志訓**, 菊池浩明<br>
    第110回CSEC研究発表会, 2025.
 
 3. VP-NTK: Exploring Visual Prompting in Differentially Private Data Synthesis  
@@ -76,8 +76,8 @@ His research interests lie at the intersection of **differential privacy**, **ne
    **Chih-Hsun Lin**, Chia-Mu Yu  
    *IEEE International Conference on Consumer Electronics-Taiwan (ICCE-TW)*, 2018.
 
-8. 加密雲端數據上模糊化多關鍵字搜尋的隱私保護
-   **林志訓**, 魏瑋良, 游家牧
+8. 加密雲端數據上模糊化多關鍵字搜尋的隱私保護<br>
+   **林志訓**, 魏瑋良, 游家牧<br>
    全國資訊安全會議, 2017. 
 
 ---
