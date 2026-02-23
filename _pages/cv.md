@@ -41,7 +41,7 @@ His research interests lie at the intersection of **differential privacy**, **ne
 ### Journal Articles
 
 1. DPAF: Image Synthesis via Differentially Private Aggregation in the Forward Phase  
-   **Chih-Hsun Lin**, Chia-Yi Hsu, Chia-Mu Yu, Cao Yang, Chun-Ying Huang  
+   **Chih-Hsun Lin**, Chia-Yi Hsu, Chia-Mu Yu, Yang Cao, Chun-Ying Huang  
    *IEEE Internet of Things Journal (IEEE IoT-J)*, 2025.
 
 2. DPView: Differentially Private Data Synthesis through Domain Size Information  
