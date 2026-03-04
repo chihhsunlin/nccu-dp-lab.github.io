@@ -86,19 +86,19 @@ His research interests lie at the intersection of **differential privacy**, **ne
 
 - An End-to-End Differential Privacy Protocol for Polypharmacy Risk Analysis<br>
   Hiroaki Kikuchi, **Chih-Hsun Lin**<br>
-  Submitted to *IEEE Access*. Under Review.
+  Submitted to *IEEE Access*. Under review.
 
 - Data Poisoning Attacks to Locally Differentially Private Range Query Protocols  
   Ting-Wei Liao, **Chih-Hsun Lin**, Yu-Lin Tsai, Takao Murakami, Chia-Mu Yu, Jun Sakuma, Chun-Ying Huang, Hiroaki Kikuchi  
-  Under Review.
+  Under review.
 
 - Poisoning Attacks to Local Differential Privacy Protocols for Trajectory Data  
   I-Jung Hsu, **Chih-Hsun Lin**, Chia-Mu Yu, Sy-Yen Kuo, Chun-Ying Huang  
-  Submitted to *IEEE Transactions on Information Forensics and Security (IEEE TIFS)*. Under Review.
+  Submitted to *IEEE Transactions on Information Forensics and Security (IEEE TIFS)*. Under review.
 
 - BadTV: Unveiling Backdoor Threats in Third-Party Task Vectors  
   Chia-Yi Hsu, Yu-Lin Tsai, Yu Zhe, Yan-Lun Chen, **Chih-Hsun Lin**, Chia-Mu Yu, Yang Zhang, Chun-Ying Huang, Jun Sakuma  
-  Under Review.
+  Under review.
 
 ---
 
