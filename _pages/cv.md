@@ -60,7 +60,7 @@ His research interests lie at the intersection of **differential privacy**, **ne
    Chia-Yi Hsu, Jia-You Chen, Yu-Lin Tsai, **Chih-Hsun Lin**, Pin-Yu Chen, Chia-Mu Yu, Chun-Ying Huang  
    *IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)*, 2025.
 
-4. Safe LoRA: Reducing Safety Risks When Fine-Tuning Large Language Models  
+4. Safe LoRA: the Silver Lining of Reducing Safety Risks when Fine-tuning Large Language Models  
    Chia-Yi Hsu, Yu-Lin Tsai, **Chih-Hsun Lin**, Pin-Yu Chen, Chia-Mu Yu, Chun-Ying Huang  
    *Neural Information Processing Systems (NeurIPS)*, 2024.
 
