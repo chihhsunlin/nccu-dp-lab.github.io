@@ -69,18 +69,18 @@ His research interests lie at the intersection of **differential privacy**, **ne
    *Neural Information Processing Systems (NeurIPS)*, 2024.
 
 6. Ring-A-Bell! How Reliable Are Concept Removal Methods?  
-   Yu-Lin Tsai, Chia-Yi Hsu, Chulin Xie, **Chih-Hsun Lin**, Jia-You Chen, Bo Li, Pin-Yu Chen, Chia-Mu Yu, Chun-Ying Huang  
+   Yu-Lin Tsai, Chia-Yi Hsu, Chulin Xie, **Chih-Hsun Lin**, Jia-You Chen, Bo Li, Pin-Yu Chen, Chia-Mu Yu, Chun-Ying Huang
    *International Conference on Learning Representations (ICLR)*, 2024.
 
-7. Deepfake Detection through Temporal Attention Mechanisms  
+8. Deepfake Detection through Temporal Attention Mechanisms  
    Hsiu-Fu Wu, Chia-Yi Hsu, **Chih-Hsun Lin**, Chia-Mu Yu, Chun-Ying Huang  
    *IEEE Wireless and Optical Communications Conference (IEEE WOCC)*, 2024.
 
-8. Privacy-Preserving Record Linkage via Bilinear Pairing  
+9. Privacy-Preserving Record Linkage via Bilinear Pairing  
    **Chih-Hsun Lin**, Chia-Mu Yu  
    *IEEE International Conference on Consumer Electronics-Taiwan (ICCE-TW)*, 2018.
 
-9. 加密雲端數據上模糊化多關鍵字搜尋的隱私保護<br>
+10. 加密雲端數據上模糊化多關鍵字搜尋的隱私保護<br>
    **林志訓**, 魏瑋良, 游家牧<br>
    *全國資訊安全會議*, 2017. 
 
