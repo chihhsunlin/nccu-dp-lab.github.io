@@ -52,31 +52,35 @@ His research interests lie at the intersection of **differential privacy**, **ne
 
 ### Conference Papers
 
-1. 顔ランドマーク抽出妨害する敵対的攻撃によるディープフ ェイク生成防御<br>
+1. BadTV: Unveiling Backdoor Threats in Third-Party Task Vectors  
+  Chia-Yi Hsu, Yu-Lin Tsai, Yu Zhe, Yan-Lun Chen, **Chih-Hsun Lin**, Chia-Mu Yu, Yang Zhang, Chun-Ying Huang, Jun Sakuma
+*ACM Conference on Computer and Communications Security (CCS)*, 2026. (Accepted)
+
+3. 顔ランドマーク抽出妨害する敵対的攻撃によるディープフ ェイク生成防御<br>
    楊力懿, **林志訓**, 菊池浩明<br>
    *第110回CSEC研究発表会*, 2025.
 
-3. VP-NTK: Exploring Visual Prompting in Differentially Private Data Synthesis  
+4. VP-NTK: Exploring Visual Prompting in Differentially Private Data Synthesis  
    Chia-Yi Hsu, Jia-You Chen, Yu-Lin Tsai, **Chih-Hsun Lin**, Pin-Yu Chen, Chia-Mu Yu, Chun-Ying Huang  
    *IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)*, 2025.
 
-4. Safe LoRA: the Silver Lining of Reducing Safety Risks when Fine-tuning Large Language Models  
+5. Safe LoRA: the Silver Lining of Reducing Safety Risks when Fine-tuning Large Language Models  
    Chia-Yi Hsu, Yu-Lin Tsai, **Chih-Hsun Lin**, Pin-Yu Chen, Chia-Mu Yu, Chun-Ying Huang  
    *Neural Information Processing Systems (NeurIPS)*, 2024.
 
-5. Ring-A-Bell! How Reliable Are Concept Removal Methods?  
+6. Ring-A-Bell! How Reliable Are Concept Removal Methods?  
    Yu-Lin Tsai, Chia-Yi Hsu, Chulin Xie, **Chih-Hsun Lin**, Jia-You Chen, Bo Li, Pin-Yu Chen, Chia-Mu Yu, Chun-Ying Huang  
    *International Conference on Learning Representations (ICLR)*, 2024.
 
-6. Deepfake Detection through Temporal Attention Mechanisms  
+7. Deepfake Detection through Temporal Attention Mechanisms  
    Hsiu-Fu Wu, Chia-Yi Hsu, **Chih-Hsun Lin**, Chia-Mu Yu, Chun-Ying Huang  
    *IEEE Wireless and Optical Communications Conference (IEEE WOCC)*, 2024.
 
-7. Privacy-Preserving Record Linkage via Bilinear Pairing  
+8. Privacy-Preserving Record Linkage via Bilinear Pairing  
    **Chih-Hsun Lin**, Chia-Mu Yu  
    *IEEE International Conference on Consumer Electronics-Taiwan (ICCE-TW)*, 2018.
 
-8. 加密雲端數據上模糊化多關鍵字搜尋的隱私保護<br>
+9. 加密雲端數據上模糊化多關鍵字搜尋的隱私保護<br>
    **林志訓**, 魏瑋良, 游家牧<br>
    *全國資訊安全會議*, 2017. 
 
@@ -95,10 +99,6 @@ His research interests lie at the intersection of **differential privacy**, **ne
 - Poisoning Attacks to Local Differential Privacy Protocols for Trajectory Data  
   I-Jung Hsu, **Chih-Hsun Lin**, Chia-Mu Yu, Sy-Yen Kuo, Chun-Ying Huang  
   Submitted to *IEEE Transactions on Information Forensics and Security (IEEE TIFS)*. Under review.
-
-- BadTV: Unveiling Backdoor Threats in Third-Party Task Vectors  
-  Chia-Yi Hsu, Yu-Lin Tsai, Yu Zhe, Yan-Lun Chen, **Chih-Hsun Lin**, Chia-Mu Yu, Yang Zhang, Chun-Ying Huang, Jun Sakuma  
-  Under review.
 
 ---
 
