@@ -54,7 +54,7 @@ His research interests lie at the intersection of **differential privacy**, **ne
 
 1. BadTV: Unveiling Backdoor Threats in Third-Party Task Vectors  
   Chia-Yi Hsu, Yu-Lin Tsai, Yu Zhe, Yan-Lun Chen, **Chih-Hsun Lin**, Chia-Mu Yu, Yang Zhang, Chun-Ying Huang, Jun Sakuma
-*ACM Conference on Computer and Communications Security (CCS)*, 2026. (Accepted)
+*ACM Conference on Computer and Communications Security (ACM CCS)*, 2026. (Accepted)
 
 3. 顔ランドマーク抽出妨害する敵対的攻撃によるディープフ ェイク生成防御<br>
    楊力懿, **林志訓**, 菊池浩明<br>
