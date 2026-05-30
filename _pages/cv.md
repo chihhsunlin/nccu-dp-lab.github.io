@@ -98,7 +98,7 @@ His research interests lie at the intersection of **differential privacy**, **ne
 
 - Poisoning Attacks to Local Differential Privacy Protocols for Trajectory Data  
   I-Jung Hsu, **Chih-Hsun Lin**, Chia-Mu Yu, Sy-Yen Kuo, Chun-Ying Huang  
-  Submitted to *IEEE Transactions on Information Forensics and Security (IEEE TIFS)*. Under review.
+  Submitted to *IEEE Transactions on Parallel and Distributed Systems (IEEE TPDS)*. Under review.
 
 ---
 
