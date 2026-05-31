@@ -121,5 +121,7 @@ Visiting Researcher, Tokyo Institute of Technology, Japan (Jul 2017 – Aug 2017
 
 ## Teaching
 
+-  Trustworthy AI (graduate, 2026 fall)
+-  Information Theory (undergraduate, 2026 fall)
 -  Privacy-Preserving Computing (graduate, 2026 spring)
 -  Ethics and Security in Artificial Intelligence (undergraduate, 2026 spring)
