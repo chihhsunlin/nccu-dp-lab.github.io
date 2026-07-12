@@ -12,7 +12,7 @@ sidebar: false
 <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); gap: 1.5em;">
 
 <div>
-<img src="{{ site.baseurl }}/images/profile.png" style="width:60%; border-radius: 12px;"><br>
+<img src="{{ site.baseurl }}/images/Larry.jpg" style="width:60%; border-radius: 12px;"><br>
 Member Name
 </div>
 
