@@ -13,7 +13,7 @@ sidebar: false
 
 <div>
 <img src="{{ site.baseurl }}/images/Larry.jpg" style="width:60%; border-radius: 12px;"><br>
-<p>賴又睿</p>
+<p align="center">賴又睿</p>
 </div>
 
 <div>
