@@ -17,7 +17,7 @@ sidebar: false
 </div>
 
 <div>
-<img src="{{ site.baseurl }}/images/yenshaochen.png" style="width:60%; border-radius: 12px;"><br>
+<img src="{{ site.baseurl }}/images/yenshaochen.jpg" style="width:60%; border-radius: 12px;"><br>
 陳彥劭
 </div>
 
