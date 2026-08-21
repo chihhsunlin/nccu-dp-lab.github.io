@@ -17,6 +17,11 @@ sidebar: false
 </div>
 
 <div>
+<img src="{{ site.baseurl }}/images/yenshaochen.png" style="width:60%; border-radius: 12px;"><br>
+陳彥劭
+</div>
+
+<div>
 <img src="{{ site.baseurl }}/images/profile.png" style="width:60%; border-radius: 12px;"><br>
 Member Name
 </div>
