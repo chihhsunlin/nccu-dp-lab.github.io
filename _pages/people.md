@@ -28,7 +28,7 @@ sidebar: false
 
 <div>
 <img src="{{ site.baseurl }}/images/profile.png" style="width:60%; border-radius: 12px;"><br>
-Member Name
+Member Name 
 </div>
 
 </div>
