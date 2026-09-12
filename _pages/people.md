@@ -12,7 +12,7 @@ sidebar: false
 <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); gap: 1.5em;">
 
 <div>
-<img src="{{ site.baseurl }}/images/Larry3.jpg" style="width:60%; border-radius: 12px;"><br>
+<img src="{{ site.baseurl }}/images/Larry4.jpg" style="width:60%; border-radius: 12px;"><br>
 賴又睿
 </div>
 
