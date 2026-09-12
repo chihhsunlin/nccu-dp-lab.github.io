@@ -22,6 +22,11 @@ sidebar: false
 </div>
 
 <div>
+<img src="{{ site.baseurl }}/images/14155020.jpg" style="width:60%; border-radius: 12px;"><br>
+黃柏文
+</div>
+
+<div>
 <img src="{{ site.baseurl }}/images/profile.png" style="width:60%; border-radius: 12px;"><br>
 Member Name
 </div>
