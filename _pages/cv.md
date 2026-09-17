@@ -52,7 +52,11 @@ His research interests lie at the intersection of **differential privacy**, **ne
 
 ### Conference Papers
 
-1. BadTV: Unveiling Backdoor Threats in Third-Party Task Vectors  
+1. Data Poisoning Attacks to Locally Differentially Private Range Query Protocols  
+  Ting-Wei Liao, **Chih-Hsun Lin**, Chia-Mu Yu, Yu-Lin Tsai, Jun Sakuma, Takao Murakami, Chun-Ying Huang, Hiroaki Kikuchi
+*Network and Distributed System Security (NDSS) Symposium*, 2027. (Accepted)
+
+2. BadTV: Unveiling Backdoor Threats in Third-Party Task Vectors  
   Chia-Yi Hsu, Yu-Lin Tsai, Yu Zhe, Yan-Lun Chen, **Chih-Hsun Lin**, Chia-Mu Yu, Yang Zhang, Chun-Ying Huang, Jun Sakuma
 *ACM Conference on Computer and Communications Security (ACM CCS)*, 2026. (Accepted)
 
