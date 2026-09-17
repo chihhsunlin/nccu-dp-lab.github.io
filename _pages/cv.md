@@ -53,12 +53,12 @@ His research interests lie at the intersection of **differential privacy**, **ne
 ### Conference Papers
 
 1. Data Poisoning Attacks to Locally Differentially Private Range Query Protocols  
-  Ting-Wei Liao, **Chih-Hsun Lin**, Chia-Mu Yu, Yu-Lin Tsai, Jun Sakuma, Takao Murakami, Chun-Ying Huang, Hiroaki Kikuchi
-*Network and Distributed System Security (NDSS) Symposium*, 2027. (Accepted)
+   Ting-Wei Liao, **Chih-Hsun Lin**, Chia-Mu Yu, Yu-Lin Tsai, Jun Sakuma, Takao Murakami, Chun-Ying Huang, Hiroaki Kikuchi
+   *Network and Distributed System Security (NDSS) Symposium*, 2027. (Accepted)
 
 2. BadTV: Unveiling Backdoor Threats in Third-Party Task Vectors  
-  Chia-Yi Hsu, Yu-Lin Tsai, Yu Zhe, Yan-Lun Chen, **Chih-Hsun Lin**, Chia-Mu Yu, Yang Zhang, Chun-Ying Huang, Jun Sakuma
-*ACM Conference on Computer and Communications Security (ACM CCS)*, 2026. (Accepted)
+   Chia-Yi Hsu, Yu-Lin Tsai, Yu Zhe, Yan-Lun Chen, **Chih-Hsun Lin**, Chia-Mu Yu, Yang Zhang, Chun-Ying Huang, Jun Sakuma
+   *ACM Conference on Computer and Communications Security (ACM CCS)*, 2026. (Accepted)
 
 3. 顔ランドマーク抽出妨害する敵対的攻撃によるディープフ ェイク生成防御<br>
    楊力懿, **林志訓**, 菊池浩明<br>
