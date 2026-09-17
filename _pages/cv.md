@@ -53,11 +53,11 @@ His research interests lie at the intersection of **differential privacy**, **ne
 ### Conference Papers
 
 1. Data Poisoning Attacks to Locally Differentially Private Range Query Protocols  
-   Ting-Wei Liao, **Chih-Hsun Lin**, Chia-Mu Yu, Yu-Lin Tsai, Jun Sakuma, Takao Murakami, Chun-Ying Huang, Hiroaki Kikuchi
+   Ting-Wei Liao, **Chih-Hsun Lin**, Chia-Mu Yu, Yu-Lin Tsai, Jun Sakuma, Takao Murakami, Chun-Ying Huang, Hiroaki Kikuchi<br>
    *Network and Distributed System Security (NDSS) Symposium*, 2027. (Accepted)
 
 2. BadTV: Unveiling Backdoor Threats in Third-Party Task Vectors  
-   Chia-Yi Hsu, Yu-Lin Tsai, Yu Zhe, Yan-Lun Chen, **Chih-Hsun Lin**, Chia-Mu Yu, Yang Zhang, Chun-Ying Huang, Jun Sakuma
+   Chia-Yi Hsu, Yu-Lin Tsai, Yu Zhe, Yan-Lun Chen, **Chih-Hsun Lin**, Chia-Mu Yu, Yang Zhang, Chun-Ying Huang, Jun Sakuma<br>
    *ACM Conference on Computer and Communications Security (ACM CCS)*, 2026. (Accepted)
 
 3. 顔ランドマーク抽出妨害する敵対的攻撃によるディープフ ェイク生成防御<br>
@@ -65,19 +65,19 @@ His research interests lie at the intersection of **differential privacy**, **ne
    *第110回CSEC研究発表会*, 2025.
 
 4. VP-NTK: Exploring Visual Prompting in Differentially Private Data Synthesis  
-   Chia-Yi Hsu, Jia-You Chen, Yu-Lin Tsai, **Chih-Hsun Lin**, Pin-Yu Chen, Chia-Mu Yu, Chun-Ying Huang  
+   Chia-Yi Hsu, Jia-You Chen, Yu-Lin Tsai, **Chih-Hsun Lin**, Pin-Yu Chen, Chia-Mu Yu, Chun-Ying Huang<br>
    *IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)*, 2025.
 
 5. Safe LoRA: the Silver Lining of Reducing Safety Risks when Fine-tuning Large Language Models  
-   Chia-Yi Hsu, Yu-Lin Tsai, **Chih-Hsun Lin**, Pin-Yu Chen, Chia-Mu Yu, Chun-Ying Huang  
+   Chia-Yi Hsu, Yu-Lin Tsai, **Chih-Hsun Lin**, Pin-Yu Chen, Chia-Mu Yu, Chun-Ying Huang<br>
    *Neural Information Processing Systems (NeurIPS)*, 2024.
 
 6. Ring-A-Bell! How Reliable Are Concept Removal Methods?  
-   Yu-Lin Tsai, Chia-Yi Hsu, Chulin Xie, **Chih-Hsun Lin**, Jia-You Chen, Bo Li, Pin-Yu Chen, Chia-Mu Yu, Chun-Ying Huang
+   Yu-Lin Tsai, Chia-Yi Hsu, Chulin Xie, **Chih-Hsun Lin**, Jia-You Chen, Bo Li, Pin-Yu Chen, Chia-Mu Yu, Chun-Ying Huang<br>
    *International Conference on Learning Representations (ICLR)*, 2024.
 
 8. Deepfake Detection through Temporal Attention Mechanisms  
-   Hsiu-Fu Wu, Chia-Yi Hsu, **Chih-Hsun Lin**, Chia-Mu Yu, Chun-Ying Huang  
+   Hsiu-Fu Wu, Chia-Yi Hsu, **Chih-Hsun Lin**, Chia-Mu Yu, Chun-Ying Huang<br>
    *IEEE Wireless and Optical Communications Conference (IEEE WOCC)*, 2024.
 
 9. Privacy-Preserving Record Linkage via Bilinear Pairing  
