@@ -96,12 +96,8 @@ His research interests lie at the intersection of **differential privacy**, **ne
   Hiroaki Kikuchi, **Chih-Hsun Lin**<br>
   Submitted to *IEEE Access*. Under review.
 
-- Data Poisoning Attacks to Locally Differentially Private Range Query Protocols  
-  Ting-Wei Liao, **Chih-Hsun Lin**, Yu-Lin Tsai, Takao Murakami, Chia-Mu Yu, Jun Sakuma, Chun-Ying Huang, Hiroaki Kikuchi  
-  Under review.
-
 - Poisoning Attacks to Local Differential Privacy Protocols for Trajectory Data  
-  I-Jung Hsu, **Chih-Hsun Lin**, Chia-Mu Yu, Sy-Yen Kuo, Chun-Ying Huang  
+  I-Jung Hsu, **Chih-Hsun Lin**, Chia-Mu Yu, Sy-Yen Kuo, Chun-Ying Huang<br>
   Submitted to *IEEE Transactions on Parallel and Distributed Systems (IEEE TPDS)*. Under review.
 
 ---
