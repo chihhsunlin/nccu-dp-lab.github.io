@@ -52,13 +52,13 @@ His research interests lie at the intersection of **differential privacy**, **ne
 
 ### Conference Papers
 
-1. Multi-Model Adversarial Landmark Perturbation for Disrupting Deepfake Generation
-   Hiroaki Kikuchi, Yang Liyi, **Chih-Hsun Lin**<br>
-   *IEEE Conference on Dependable and Secure Computing (DSC)*, 2026. (Accepted)
-
-2. Data Poisoning Attacks to Locally Differentially Private Range Query Protocols  
+1. Data Poisoning Attacks to Locally Differentially Private Range Query Protocols  
    Ting-Wei Liao, **Chih-Hsun Lin**, Chia-Mu Yu, Yu-Lin Tsai, Jun Sakuma, Takao Murakami, Chun-Ying Huang, Hiroaki Kikuchi<br>
    *Network and Distributed System Security (NDSS) Symposium*, 2027. (Accepted)
+
+2. Multi-Model Adversarial Landmark Perturbation for Disrupting Deepfake Generation
+   Hiroaki Kikuchi, Yang Liyi, **Chih-Hsun Lin**<br>
+   *IEEE Conference on Dependable and Secure Computing (DSC)*, 2026. (Accepted)
 
 3. BadTV: Unveiling Backdoor Threats in Third-Party Task Vectors  
    Chia-Yi Hsu, Yu-Lin Tsai, Yu Zhe, Yan-Lun Chen, **Chih-Hsun Lin**, Chia-Mu Yu, Yang Zhang, Chun-Ying Huang, Jun Sakuma<br>
