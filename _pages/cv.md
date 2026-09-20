@@ -57,7 +57,7 @@ His research interests lie at the intersection of **differential privacy**, **ne
    *Network and Distributed System Security (NDSS) Symposium*, 2027. (Accepted)
 
 2. Multi-Model Adversarial Landmark Perturbation for Disrupting Deepfake Generation
-   Hiroaki Kikuchi, Yang Liyi, **Chih-Hsun Lin**<br>
+   Hiroaki Kikuchi, Liyi Yang, **Chih-Hsun Lin**<br>
    *IEEE Conference on Dependable and Secure Computing (DSC)*, 2026. (Accepted)
 
 3. BadTV: Unveiling Backdoor Threats in Third-Party Task Vectors  
