@@ -98,11 +98,11 @@ His research interests lie at the intersection of **differential privacy**, **ne
 
 - An End-to-End Differential Privacy Protocol for Polypharmacy Risk Analysis<br>
   Hiroaki Kikuchi, **Chih-Hsun Lin**<br>
-  Submitted to *IEEE Access*. Under review.
+  Under review.
 
 - Poisoning Attacks to Local Differential Privacy Protocols for Trajectory Data  
   I-Jung Hsu, **Chih-Hsun Lin**, Chia-Mu Yu, Sy-Yen Kuo, Chun-Ying Huang<br>
-  Submitted to *IEEE Transactions on Parallel and Distributed Systems (IEEE TPDS)*. Under review.
+  Under review.
 
 ---
 
